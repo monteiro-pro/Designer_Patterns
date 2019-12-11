@@ -1,0 +1,6 @@
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Prototype\obj\Debug\Prototype.pdb

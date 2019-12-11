@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Singleton
 {
-    public sealed class Singleton
+    public sealed class Singleton //** Classes "sealed" não podem ser herdadas.
     {
         private static Singleton instancia = null;
 

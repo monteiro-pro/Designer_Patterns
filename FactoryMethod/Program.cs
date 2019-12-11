@@ -15,7 +15,7 @@ namespace FactoryMethod
             Console.WriteLine("SubZero | Liu Kang | Scorpion");
             Console.WriteLine();
 
-            Console.WriteLine("Escolha sue Personagem");
+            Console.WriteLine("Escolha seu Personagem");
             string escolha = Console.ReadLine();
             Console.WriteLine();
 

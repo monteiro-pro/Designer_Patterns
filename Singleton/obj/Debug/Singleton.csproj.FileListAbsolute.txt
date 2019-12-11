@@ -5,3 +5,9 @@ c:\users\j.monteiro.da.silva\source\repos\Designer Patterns\Singleton\obj\Debug\
 c:\users\j.monteiro.da.silva\source\repos\Designer Patterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
 c:\users\j.monteiro.da.silva\source\repos\Designer Patterns\Singleton\obj\Debug\Singleton.exe
 c:\users\j.monteiro.da.silva\source\repos\Designer Patterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\Designer Patterns\Singleton\obj\Debug\Singleton.pdb
