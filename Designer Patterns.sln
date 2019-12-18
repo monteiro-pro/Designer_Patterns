@@ -36,6 +36,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeight", "FlyWeight\FlyW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{D5AE28C7-611C-4796-8B64-733CFBB9D460}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comportamental", "Comportamental", "{0A183C92-D99A-4440-8786-3DA820CD055E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain_Of_Responsibility", "Chain_Of_Responsibility\Chain_Of_Responsibility.csproj", "{992F8B90-D824-4617-9223-9963B0576729}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,6 +94,10 @@ Global
 		{D5AE28C7-611C-4796-8B64-733CFBB9D460}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5AE28C7-611C-4796-8B64-733CFBB9D460}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5AE28C7-611C-4796-8B64-733CFBB9D460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992F8B90-D824-4617-9223-9963B0576729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992F8B90-D824-4617-9223-9963B0576729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992F8B90-D824-4617-9223-9963B0576729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992F8B90-D824-4617-9223-9963B0576729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -107,6 +115,7 @@ Global
 		{D0D2C664-3D29-4D54-BCCE-A9B5D09EBFDC} = {8BBFFA6A-160A-4DDC-BF0C-30F6FAC1586A}
 		{E5DBA21A-8D6E-45B6-A909-44BA336D8766} = {8BBFFA6A-160A-4DDC-BF0C-30F6FAC1586A}
 		{D5AE28C7-611C-4796-8B64-733CFBB9D460} = {8BBFFA6A-160A-4DDC-BF0C-30F6FAC1586A}
+		{992F8B90-D824-4617-9223-9963B0576729} = {0A183C92-D99A-4440-8786-3DA820CD055E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {804E41FF-B9EA-4DB3-8308-48DDE361B03B}
