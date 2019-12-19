@@ -44,6 +44,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{CD4F2063-636B-4607-9982-F9D134CE15A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{44384AFE-857B-4BB2-8B97-C9323271EB41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -110,6 +112,10 @@ Global
 		{CD4F2063-636B-4607-9982-F9D134CE15A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD4F2063-636B-4607-9982-F9D134CE15A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD4F2063-636B-4607-9982-F9D134CE15A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44384AFE-857B-4BB2-8B97-C9323271EB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44384AFE-857B-4BB2-8B97-C9323271EB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44384AFE-857B-4BB2-8B97-C9323271EB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44384AFE-857B-4BB2-8B97-C9323271EB41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -130,6 +136,7 @@ Global
 		{992F8B90-D824-4617-9223-9963B0576729} = {0A183C92-D99A-4440-8786-3DA820CD055E}
 		{865AEF96-AE19-4BB2-B6F4-CE3B88CF8C0F} = {0A183C92-D99A-4440-8786-3DA820CD055E}
 		{CD4F2063-636B-4607-9982-F9D134CE15A1} = {0A183C92-D99A-4440-8786-3DA820CD055E}
+		{44384AFE-857B-4BB2-8B97-C9323271EB41} = {0A183C92-D99A-4440-8786-3DA820CD055E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {804E41FF-B9EA-4DB3-8308-48DDE361B03B}
