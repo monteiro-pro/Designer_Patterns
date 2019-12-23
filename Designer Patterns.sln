@@ -60,6 +60,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy2", "Strategy2\Strategy2.csproj", "{067F3DD5-3D8C-48ED-8C3E-1B8B631C439A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{D7E6554F-E23E-4837-99E1-293BB256C7CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -158,6 +160,10 @@ Global
 		{067F3DD5-3D8C-48ED-8C3E-1B8B631C439A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067F3DD5-3D8C-48ED-8C3E-1B8B631C439A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067F3DD5-3D8C-48ED-8C3E-1B8B631C439A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E6554F-E23E-4837-99E1-293BB256C7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E6554F-E23E-4837-99E1-293BB256C7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E6554F-E23E-4837-99E1-293BB256C7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E6554F-E23E-4837-99E1-293BB256C7CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -186,6 +192,7 @@ Global
 		{D0AD5B0A-BC79-4E59-8DCF-42E71EFC321B} = {0A183C92-D99A-4440-8786-3DA820CD055E}
 		{FD22FD72-728C-477C-A646-DB6ADD14761B} = {0A183C92-D99A-4440-8786-3DA820CD055E}
 		{067F3DD5-3D8C-48ED-8C3E-1B8B631C439A} = {0A183C92-D99A-4440-8786-3DA820CD055E}
+		{D7E6554F-E23E-4837-99E1-293BB256C7CD} = {0A183C92-D99A-4440-8786-3DA820CD055E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {804E41FF-B9EA-4DB3-8308-48DDE361B03B}
