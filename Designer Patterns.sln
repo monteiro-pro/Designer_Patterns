@@ -62,6 +62,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy2", "Strategy2\Stra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{D7E6554F-E23E-4837-99E1-293BB256C7CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependecy Injection", "Dependecy Injection\Dependecy Injection.csproj", "{58808DAB-8A6C-4D4D-9240-F4E2A311CB36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -164,6 +166,10 @@ Global
 		{D7E6554F-E23E-4837-99E1-293BB256C7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7E6554F-E23E-4837-99E1-293BB256C7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7E6554F-E23E-4837-99E1-293BB256C7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58808DAB-8A6C-4D4D-9240-F4E2A311CB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58808DAB-8A6C-4D4D-9240-F4E2A311CB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58808DAB-8A6C-4D4D-9240-F4E2A311CB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58808DAB-8A6C-4D4D-9240-F4E2A311CB36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,6 +6,11 @@ namespace Singleton
     {
         private static Singleton instancia = null;
 
+        public Singleton()
+        {
+            instancia = Singleton.GetIntancia;
+        }
+
         public static Singleton GetIntancia
         {
             get

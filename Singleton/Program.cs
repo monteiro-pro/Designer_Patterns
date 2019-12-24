@@ -12,7 +12,7 @@ namespace Singleton
             Singleton jogador2 = Singleton.GetIntancia;
             jogador2.Menssagem("Jogador 2 recebeu a Bola!");
 
-            Singleton jogador3 = Singleton.GetIntancia;
+            Singleton jogador3 = new Singleton();
             jogador3.Menssagem("Jogador 3 recebeu e chutou a Bola!");
 
             Console.ReadKey();
